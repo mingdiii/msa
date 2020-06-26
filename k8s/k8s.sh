@@ -1,7 +1,7 @@
 deployment=$1
 
 
-docker pull thdwmdgns/mytest
+docker pull a32111666/nginx2
 
 # container 
 kubectl run k8s --image=32111666a/nginx2 --port=80
