@@ -1,3 +1,6 @@
+# images
+![](2.PNG)
+
 # 3번 문제 k8s.sh 파일
 ```
 kubectl run k8s --image=32111666a/nginx2 --port=80
