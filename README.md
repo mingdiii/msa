@@ -96,3 +96,11 @@ To https://github.com/mingdiii/msa.git
    04c265c..7c9a629  master -> master
 
 ```
+
+
+# 3번 문제 k8s.sh 파일
+'''
+kubectl run k8s --image=32111666a/nginx2 --port=80
+kubectl.exe get po
+kubectl scale deployment k8s --replicas=20
+'''
