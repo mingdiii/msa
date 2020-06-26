@@ -1,3 +1,6 @@
+# images
+![](localhost8888.png)
+
 # msa
 
 # 작업할 폴더 만들기
